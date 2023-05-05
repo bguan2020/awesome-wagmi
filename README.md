@@ -53,6 +53,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [SimpleHash](https://docs.simplehash.com/reference/overview) - API for getting NFT metadata, media, sales and collection info from multiple chains
 - [Stripe](https://stripe.com)
 - [SushiSwap](https://sushi.com) — Community-built open-source ecosystem of all the DeFi tools you need 🍣🔱 [GitHub](https://github.com/sushiswap/sushiswap)
+- [Unlonely](https://www.unlonely.app/) - web3 livestreaming, mint stream highlights as NFTs, launch your creator token on Unlonely!
 
 [GitHub Discussion with more projects ](https://github.com/wagmi-dev/wagmi/discussions/201)
 
